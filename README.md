@@ -11,5 +11,5 @@ Diabetic/Non-Diabetic Logistic Regression model | Diabetes Dataset
 Multi-Class Logistic Regression model | Penguins Dataset
 ## Experiment-4
 K-Nearest Neighbours | Iris Dataset
-## Experiment-4
+## Experiment-5
 Decision Tree Algorithm | PIMA Indian Diabetes Dataset
