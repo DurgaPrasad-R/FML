@@ -8,6 +8,7 @@ Multiple Linear Regression model | 50_startups Dataset
 Cross Validation on above models | Above Datasets
 ## Experiment-4
 Naive Bayes Classifier | Wine Dataset
+Naive Bayes Classifier | Diabetes Dataset
 ## Experiment-5
 ### Logistic Regression-1
 Diabetic/Non-Diabetic Logistic Regression model | Diabetes Dataset
