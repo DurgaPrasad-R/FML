@@ -7,7 +7,9 @@ Multiple Linear Regression model | 50_startups Dataset | R2-Score: Without Regul
 ## Experiment-3
 Cross Validation on above models | Above Datasets | Scores: Simple Linear Regression: 2.200 | Multiple Linear Regression: 9369.02
 ## Experiment-4
+### 1:
 Naive Bayes Classifier | Wine Dataset | Accuracy: 0.888
+### 2:
 Naive Bayes Classifier | Diabetes Dataset | Accuracy: 0.75
 ## Experiment-5
 ### Logistic Regression-1
@@ -24,9 +26,9 @@ Support Vector Machine | Diabetes Dataset | Accuracy: 0.792
 ## Experiment-8
 Decision Tree Algorithm | PIMA Indian Diabetes Dataset | Accuracy: 0.688
 ## Experiment-9
-Clustering-1:
+### Clustering-1:
 K-Means Clustering | Mall Customers Dataset
-Clustering-2:
+### Clustering-2:
 Hierarchial Clustering
 ## Experiment-10
 PCA | Breast Cancer Dataset
