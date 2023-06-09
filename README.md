@@ -19,5 +19,7 @@ Multi-Class Logistic Regression model | Penguins Dataset | Accuracy: 0.99
 K-Nearest Neighbours | Iris Dataset | Accuracy: 0.933
 ### 2:
 K-Nearest Neighbours | Breast Cancer Dataset | Accuracy: 0.956
+## Experiment-7
+Support Vector Machine | Diabetes Dataset | Accuracy: 0.792
 ## Experiment-8
 Decision Tree Algorithm | PIMA Indian Diabetes Dataset | Accuracy: 0.688
