@@ -24,4 +24,18 @@ Support Vector Machine | Diabetes Dataset | Accuracy: 0.792
 ## Experiment-8
 Decision Tree Algorithm | PIMA Indian Diabetes Dataset | Accuracy: 0.688
 ## Experiment-9
+Clustering-1:
 K-Means Clustering | Mall Customers Dataset
+Clustering-2:
+Hierarchial Clustering
+## Experiment-10
+PCA | Breast Cancer Dataset
+## Experiment-11
+Time-Series Modelling-ARIMA | Air Passengers Dataset
+## Experiment-12
+### NLP Task-1 
+Noise Removal on Text | Example
+### NLP Task-2
+Tokenization | Stemming | Lemmatization
+## Experiment-13
+Activation Functions
